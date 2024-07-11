@@ -1,2 +1,2 @@
-# global-cluster-django
-Global cluster web application backend
+# global-cluster-django-backend
+Backend of Global Cluster Website
